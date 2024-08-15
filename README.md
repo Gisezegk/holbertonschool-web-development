@@ -10,4 +10,6 @@ What is an element / tag
 What is an attribute
 What the purpose of each HTML tag
 
-<image src="https://play.google.com/store/apps/details?id=com.codeliber.htmlpro&hl=zu" alt="html">
+<kbd>
+  <img src="/images/images (1).png" alt="html" />
+</kbd>
