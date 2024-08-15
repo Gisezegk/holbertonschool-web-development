@@ -10,6 +10,4 @@ What is an element / tag
 What is an attribute
 What the purpose of each HTML tag
 
-<kbd>
-  <img src="/images/images.png" alt="html" />
-</kbd>
+![htmlfile](/images/images.png)
