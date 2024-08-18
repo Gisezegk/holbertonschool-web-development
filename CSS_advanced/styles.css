@@ -1,0 +1,10 @@
+.logo {
+    border: 0.5px solid darkblue;
+    width: 100px;
+}
+
+.link {
+    text-align: right;
+    text-overflow: initial;
+    color: brown;
+}

@@ -10,5 +10,4 @@ What is an element / tag
 What is an attribute
 What the purpose of each HTML tag
 
-
 ![htmlfile](/images/imagen.png)
